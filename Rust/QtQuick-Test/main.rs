@@ -1,4 +1,4 @@
-
+// QML Rust Bindings Test (https://github.com/cyndis/qmlrs)
 extern crate qmlrs; 
 
 fn main() {
